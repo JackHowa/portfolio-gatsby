@@ -1,0 +1,2 @@
+webpackJsonp([0x954c759a7f01],{199:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=a(4),c=l(u),o=a(63),r=l(o),n=function(){return c.default.createElement("div",null,c.default.createElement("div",{style:{color:"orange"}},"I'm Jack"),c.default.createElement("img",{src:"https://www.fillmurray.com/200/300",alt:"Not actually me"}),c.default.createElement(r.default,{to:"/"},"Go back to the homepage"))};t.default=n,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-bio-js-9a7a8512a7dbde7336c9.js.map
