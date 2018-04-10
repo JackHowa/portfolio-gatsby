@@ -1,0 +1,1 @@
+This is my portfolio page, using React. Wanted to use React and make a static site. This seemed like a good choice. Following  user stories from [Free Code Camp's portfolio page](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage). 
