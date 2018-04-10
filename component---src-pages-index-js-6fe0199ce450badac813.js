@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{200:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(4),n=a(u),d=l(63),o=a(d),r=function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"Come See My Projects"),n.default.createElement("p",null,"I make tea, podcasts and web and mobile apps."),n.default.createElement("div",null,n.default.createElement(o.default,{to:"/bio/"},"Click for my bio!")))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-index-js-6fe0199ce450badac813.js.map
