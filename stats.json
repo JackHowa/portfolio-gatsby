@@ -8,9 +8,17 @@
       "path----8555da6187379efed032.js",
       "path----8555da6187379efed032.js.map"
     ],
+    "component---src-pages-social-js": [
+      "component---src-pages-social-js-baf98d84cf174366fd9f.js",
+      "component---src-pages-social-js-baf98d84cf174366fd9f.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2f1d9167c82d5ee4d61d.js",
-      "component---src-layouts-index-js-2f1d9167c82d5ee4d61d.js.map"
+      "component---src-layouts-index-js-0c7507a33d23e2ba60ea.js",
+      "component---src-layouts-index-js-0c7507a33d23e2ba60ea.js.map"
+    ],
+    "path---social": [
+      "path---social-a0e39f21c11f6a62c5ab.js",
+      "path---social-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -32,9 +40,17 @@
       "commons-403258ad126d5c26671b.js",
       "commons-403258ad126d5c26671b.js.map"
     ],
+    "component---src-pages-link-js": [
+      "component---src-pages-link-js-b4d579adde9651cf8ccb.js",
+      "component---src-pages-link-js-b4d579adde9651cf8ccb.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---link": [
+      "path---link-a0e39f21c11f6a62c5ab.js",
+      "path---link-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---bio": [
       "path---bio-a0e39f21c11f6a62c5ab.js",
@@ -45,9 +61,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-8c9512edac8a0c356c9e.js",
+      "app-2160630284e826c8033c.js",
       "build-js-styles.css",
-      "app-8c9512edac8a0c356c9e.js.map",
+      "app-2160630284e826c8033c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
