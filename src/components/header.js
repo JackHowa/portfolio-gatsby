@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import Social from '../pages/social';
 
 const Header = ({ siteTitle }) => (
     <div
@@ -26,6 +27,7 @@ const Header = ({ siteTitle }) => (
             {siteTitle}
           </Link>
         </h1>
+        <Social/>
       </div>
     </div>
 );
